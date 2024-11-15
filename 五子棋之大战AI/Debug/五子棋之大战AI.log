@@ -1,0 +1,20 @@
+﻿  AI.cpp
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\AI.cpp(34,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\AI.cpp(35,21): warning C4018: “<”: 有符号/无符号不匹配
+  Chess.cpp
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(33,53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(33,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(34,53): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(34,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(49,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(50,10): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(52,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(53,18): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(113,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Chess.cpp(114,8): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  ChessGame.cpp
+  main.cpp
+D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\main.cpp(8,30): warning C4305: “参数”: 从“double”到“float”截断
+  Man.cpp
+  正在生成代码...
+  五子棋之大战AI.vcxproj -> D:\Liya's code\2-1C++\C++结课作业\五子棋之大战AI\Debug\五子棋之大战AI.exe
